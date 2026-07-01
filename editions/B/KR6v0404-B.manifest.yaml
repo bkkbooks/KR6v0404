@@ -1,0 +1,276 @@
+canonical_identifier: bkk:krp/KR6v0404/B/v1
+canonical_location: https://kanripo.org/bkk/KR6v0404/B/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 法海觀瀾
+  identifiers:
+    krp: KR6v0404
+    cbeta: B24n0131
+    cbeta_old_id: B24n0131
+    authorityid: CA0006216
+    json_key: B0131
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/B/B24/B24n0131.xml
+    old_id: B24n0131
+  edition:
+    short: B
+assets:
+  parts:
+  - {seq: 0, filename: KR6v0404_000-B.yaml, hash: 'sha256:cded4bea213fe7f000ea77b52f72287ccd9c8f4ecb07a838513a5496b6f7177b'}
+  - {seq: 1, filename: KR6v0404_001-B.yaml, hash: 'sha256:4e67ed9c7e9ff6033fb899b1f7f5a5a9a8ef8bf429c21288cee90a5cb0e570e2'}
+  - {seq: 2, filename: KR6v0404_002-B.yaml, hash: 'sha256:6d6a92a1c7fe9ad9fc0fd30dc0b8ffe76b9bbe3a3d2d3d90b3115cbb36712e49'}
+  - {seq: 3, filename: KR6v0404_003-B.yaml, hash: 'sha256:6dad1c30dd1e7cbd2409fa589988a341611fc0cb8ca460b68003bbf371b35a60'}
+  - {seq: 4, filename: KR6v0404_004-B.yaml, hash: 'sha256:66bd207bd6ee4fb18a91117236b9d7cdb0c2a5d8a5a3e45e5beb29a13cc9c591'}
+  - {seq: 5, filename: KR6v0404_005-B.yaml, hash: 'sha256:2e13427da6c60b135e0e9745d492a187b49f058d69581c2f14acd7653375991b'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6v0404_000-B.markers.yaml, hash: 'sha256:a2aac9843910c47fc569413c25ab2501c8f1c7284c2d72277f646856545b3522'}
+  - {seq: 1, role: markers, filename: assets/KR6v0404_001-B.markers.yaml, hash: 'sha256:c1bc503b1b7d5e9073d6568e0326d3eb32d551237275ca908d6920904447d3c9'}
+  - {seq: 2, role: markers, filename: assets/KR6v0404_002-B.markers.yaml, hash: 'sha256:b7c7bc9b79186e70fe58232de81492634b4637bb252db1397c49e5092c83563b'}
+  - {seq: 3, role: markers, filename: assets/KR6v0404_003-B.markers.yaml, hash: 'sha256:5f83248af327d1ffc7c86ae04ae8f9599671e0ddc07fa25faa28269a66d4dfc4'}
+  - {seq: 4, role: markers, filename: assets/KR6v0404_004-B.markers.yaml, hash: 'sha256:3b4765e8e8ec64c6ceec374c3e3c0080acf8fe0ced7e784592ace049f9b19c5b'}
+  - {seq: 5, role: markers, filename: assets/KR6v0404_005-B.markers.yaml, hash: 'sha256:2bacfc67d2e70d5e1cf44ab6db2051aa83c5c9abad2f062fa1f9edeb03dac7e2'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6v0404_B_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 序文
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0404_B_000-mulu-2
+    span:
+    - front
+    - 0
+    - 0
+  label: 智旭序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0404_B_000-mulu-3
+    span:
+    - front
+    - 1246
+    - 1246
+  label: 湯學紳序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0404_B_000-mulu-4
+    span:
+    - front
+    - 1824
+    - 1824
+  label: 律學
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0404_B_000-mulu-5
+    span:
+    - front
+    - 1833
+    - 1833
+  label: 律宗要典
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0404_B_001-juan-start
+    span:
+    - body
+    - 0
+    - 13227
+  label: 法海觀瀾卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0404_B_001-mulu-1
+    span:
+    - body
+    - 18
+    - 18
+  label: 律學綱維
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0404_B_001-mulu-2
+    span:
+    - body
+    - 12580
+    - 12580
+  label: 教觀
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0404_B_001-mulu-3
+    span:
+    - body
+    - 12587
+    - 12587
+  label: 三宗要典
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0404_B_002-juan-start
+    span:
+    - body
+    - 0
+    - 10753
+  label: 法海觀瀾卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0404_B_002-mulu-1
+    span:
+    - body
+    - 18
+    - 18
+  label: 教觀警策
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0404_B_002-mulu-2
+    span:
+    - body
+    - 10505
+    - 10505
+  label: 禪宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0404_B_002-mulu-3
+    span:
+    - body
+    - 10511
+    - 10511
+  label: 禪觀要典
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0404_B_003-juan-start
+    span:
+    - body
+    - 0
+    - 22422
+  label: 法海觀瀾卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0404_B_003-mulu-1
+    span:
+    - body
+    - 18
+    - 18
+  label: 禪宗要旨
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0404_B_003-mulu-2
+    span:
+    - body
+    - 22368
+    - 22368
+  label: 密咒
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0404_B_003-mulu-3
+    span:
+    - body
+    - 22377
+    - 22377
+  label: 密宗要典
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0404_B_004-juan-start
+    span:
+    - body
+    - 0
+    - 2578
+  label: 法海觀瀾卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0404_B_004-mulu-1
+    span:
+    - body
+    - 18
+    - 18
+  label: 密咒圓因
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0404_B_004-mulu-2
+    span:
+    - body
+    - 2374
+    - 2374
+  label: 淨土
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0404_B_004-mulu-3
+    span:
+    - body
+    - 2383
+    - 2383
+  label: 淨土要典
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0404_B_005-juan-start
+    span:
+    - body
+    - 0
+    - 4521
+  label: 法海觀瀾卷第五
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0404_B_005-mulu-1
+    span:
+    - body
+    - 18
+    - 18
+  label: 淨土玄門
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0404_B_005-mulu-2
+    span:
+    - body
+    - 4243
+    - 4243
+  label: 願文
+  type: mulu
+  level: 1
+hash: sha256:7b0164ec8a3d1b1f6792d14c667c2489c9362e2c0a005ba7adea3b91e458c7eb
